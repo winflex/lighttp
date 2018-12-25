@@ -1,0 +1,14 @@
+*.project
+*.classpath
+target
+.settings
+*/lib
+*/log
+*/data
+*/bin
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
